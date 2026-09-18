@@ -1,7 +1,7 @@
-def somme(a, b):
-    return a + b
+def somme(a, b, c, d):
+    return a + b + c + d
 
 
 if __name__ == "__main__":
-    resultat = somme(2, 3)
+    resultat = somme(2, 3, 4, 5)
     print(resultat)
